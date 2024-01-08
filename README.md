@@ -23,7 +23,7 @@ This is a backend API for a social network. Users can add friends, share and upd
 ## Demonstration Video 
 This is a demonstration video to show how these models work. Tests will be run using insomnia to make sure all routes are working correctly.
 
-https://drive.google.com/file/d/1KQtGsT_T_cSurUUrLzzIL3hOOzRjPC-I/view?usp=drive_link
+https://streamable.com/n6tbow
 ## Questions
   - Email: junior_poku@hotmail.com
   - Github: https://github.com/Junya_jp
